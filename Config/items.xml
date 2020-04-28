@@ -1,0 +1,10 @@
+<items>
+
+	<set xpath="/items/item[@name='resourceScrapBrass']/property[@name='Weight']/@value">10</set>
+	<set xpath="/items/item[@name='resourceDoorKnob']/property[@name='Weight']/@value">500</set>
+	<set xpath="/items/item[@name='resourceCandleStick']/property[@name='Weight']/@value">1500</set>
+	<set xpath="/items/item[@name='resourceRadiator']/property[@name='Weight']/@value">2500</set>
+	<set xpath="/items/item[@name='resourceTrophy1']/property[@name='Weight']/@value">500</set>
+	<set xpath="/items/item[@name='casinoCoin']/property[@name='Weight']/@value">1500</set>
+
+</items>
